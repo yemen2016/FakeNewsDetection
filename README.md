@@ -6,7 +6,7 @@ The following are two Arabic corpora for the task of fake news detection:
 
 The annotation process resulted in a corpus containing 1,537 tweets (835 fake and 702 genuine), after excluding duplicated tweets, tweets that contain mixed fake and genuine news, and tweets where the fake news was meant as sarcasm. Statistical information about the manually annotated corpus is shown in the following table:</br>
 
-|. | Fake Tweets | Not Fake Tweets |
+| | Fake Tweets | Not Fake Tweets |
 | --- | --- | --- |
 | Total Tweets| 835 | 702 |
 | Total Words | 20,395 | 19,852 |
@@ -16,7 +16,7 @@ The annotation process resulted in a corpus containing 1,537 tweets (835 fake an
 2.	Automatic Annotated Corpus: </br>
 We trained different machine learning classifiers on the manually annotated corpus and used the best performing classifier to automatically predict the fake news classes of remaining unlabeled tweets. The outcome of the prediction process is 34,529 tweets (19,582 fake and 19,582 genuine) as shown in the following table. </br>
 
-|. | Fake Tweets | Not Fake Tweets |
+| | Fake Tweets | Not Fake Tweets |
 | --- | --- | --- |
 | Total Tweets| 19,582 | 14,947 |
 | Total Words | 479,349 | 463,768 |
