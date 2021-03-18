@@ -24,7 +24,7 @@ We trained different machine learning classifiers on the manually annotated corp
 | Total Characters| 2,855,454 | 2,680,067 |
 
 
-<b> Machine Learning Classififers:</b></br>
+<b> Machine Learning Classifiers:</b></br>
 Six machine learning classifiers were used to perform fake news classification for both datasets: Naïve Bayes [19], Logistic Regression (LR), Support Vector Machine (SVM), Multilayer Perceptron (MLP), Random Forest Bagging Model (RF), and eXtreme Gradient Boosting Model (XGB). The following are the hyper-parameters used with each classifier:</br>
 •	NB: alpha=0.5</br>
 •	LR: with default values</br>
