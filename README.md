@@ -32,3 +32,11 @@ Six machine learning classifiers were used to perform fake news classification f
 •	MLP: activation function=ReLU, maximum iterations=30, learning rate=0.1</br>
 •	RF: with default values</br>
 •	XGB: with default values</br>
+
+<b> Citations:</b></br>
+@article{mahlous2021fake,
+  title={Fake news detection in Arabic tweets during the COVID-19 pandemic},
+  author={Mahlous, Ahmed Redha and Al-Laith, Ali},
+  journal={Int J Adv Comput Sci Appl},
+  year={2021}
+}
