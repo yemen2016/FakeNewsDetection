@@ -34,9 +34,9 @@ Six machine learning classifiers were used to perform fake news classification f
 •	XGB: with default values</br>
 
 <b> Citations:</b></br>
-@article{mahlous2021fake,
-  title={Fake news detection in Arabic tweets during the COVID-19 pandemic},
-  author={Mahlous, Ahmed Redha and Al-Laith, Ali},
-  journal={Int J Adv Comput Sci Appl},
-  year={2021}
+@article{mahlous2021fake,</br>
+  title={Fake news detection in Arabic tweets during the COVID-19 pandemic},</br>
+  author={Mahlous, Ahmed Redha and Al-Laith, Ali},</br>
+  journal={Int J Adv Comput Sci Appl},</br>
+  year={2021}</br>
 }
